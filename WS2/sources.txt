@@ -1,0 +1,22 @@
+Name: Tran (Teryl) La
+SID: 150353175
+Date: Sept 22, 2019
+WORKSHOP 2 AT_HOME
+
+
+I got help from JiHee Kim for this part in Subject.cpp - int report(const Subject& Sub) through email because we couldn't communicate in class:
+
+
+
+				cout << Sub.m_noOfStdsInSecs[i];
+				total = total + Sub.m_noOfStdsInSecs[i];
+				if (i < *Sub.m_noOfSections - 1) {
+					cout << ",";
+				}
+				else cout << endl;
+			
+
+
+I was having trouble with pointer and address 
+
+Tran (Teryl) La - 150353175
