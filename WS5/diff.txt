@@ -1,0 +1,14 @@
+In line number 41 of your output:
+The output should be:
+Nickname: Mechanick
+    ^
+But your output is: 
+Nick name: Mechanick
+    ^
+
+Unmatched character details:
+The character in column 5 is supposed to be:
+  [n] ASCII code(110)
+but you printed
+  [Space] ASCII code(32)
+
