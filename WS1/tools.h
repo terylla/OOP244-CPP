@@ -1,9 +1,3 @@
-/*
-Name: Tran (Teryl) La
-SID: 150353175
-OOP244 - NCC - FALL 2019
-WORKSHOP 1
-*/
 
 #ifndef _TOOLS_H__
 #define _TOOLS_H__
