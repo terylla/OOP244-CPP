@@ -1,9 +1,3 @@
-/*
-Name: Tran (Teryl) La
-SID: 150353175
-WORKSHOP 3 IN_LAB
-SEPTEMBER 24th, 2019
-*/
 
 #ifndef _SDDS_MARK_H__
 #define _SDDS_MARK_H__
