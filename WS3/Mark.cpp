@@ -1,9 +1,3 @@
-/*
-Name: Tran (Teryl) La
-SID: 150353175
-WORKSHOP 3 IN_LAB
-SEPTEMBER 24th, 2019
-*/
 
 #include <iostream>
 #include "Mark.h"
