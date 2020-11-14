@@ -1,9 +1,3 @@
-/*
-Name: Tran (Teryl) La
-SID: 150353175
-WORKSHOP 3 AT_HOME
-SEPTEMBER 29th, 2019
-*/
 
 #define _CRT_SECURE_NO_WARNINGS_
 #ifndef _SDDS_MARK_H__
