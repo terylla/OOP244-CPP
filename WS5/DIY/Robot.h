@@ -1,9 +1,3 @@
-/*
-Name: Tran (Teryl) La
-SID: 150353175
-Date: October 10th, 2019
-WORKSHOP 5 AT_HOME
-*/
 
 // Robot.h
 #ifndef _SDDS_ROBOT_H__
