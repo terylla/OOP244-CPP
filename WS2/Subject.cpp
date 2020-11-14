@@ -1,9 +1,4 @@
-/*
-Name: Tran (Teryl) La
-SID: 150353175
-Date: Sept 22, 2019
-WORKSHOP 2 AT_HOME
-*/
+
 
 #include <iostream>
 #include "Subject.h"  
