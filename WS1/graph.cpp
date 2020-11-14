@@ -1,9 +1,4 @@
-/*
-Name: Tran (Teryl) La
-SID: 150353175
-OOP244 - NCC - FALL 2019
-WORKSHOP 1
-*/
+
 
 #include <iostream>
 #include <iomanip>
