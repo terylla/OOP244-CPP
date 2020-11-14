@@ -1,9 +1,3 @@
-/*
-Name: Tran (Teryl) La
-SID: 150353175
-Date: Sept 22, 2019
-WORKSHOP 2 AT_HOME
-*/
 
 #ifndef SDDS_SUBJECT_H__
 #define SDDS_SUBJECT_H__
