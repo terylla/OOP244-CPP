@@ -4,12 +4,7 @@
 #include "tools.h"
 
 using namespace std;
-/*
-Name: Tran (Teryl) La
-SID: 150353175
-OOP244 - NCC - FALL 2019
-WORKSHOP 1
-*/
+
 
 	// Performs a fool-proof integer entry
 	int getInt(int min, int max) {
