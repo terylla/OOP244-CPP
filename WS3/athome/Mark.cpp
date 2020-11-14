@@ -1,9 +1,3 @@
-/*
-Name: Tran (Teryl) La
-SID: 150353175
-WORKSHOP 3 IN_LAB
-SEPTEMBER 29th, 2019
-*/
 
 #define _CRT_SECURE_NO_WARNINGS
 #include <iostream>
